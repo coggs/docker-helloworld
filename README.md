@@ -5,14 +5,14 @@ A simple nginx helloworld application that helps you learn docker image pulls. R
 
 To pull this image:
 ```
-docker pull karthequian/helloworld:latest
+docker pull coggs/helloworld:latest
 ```
 
 To run this image:
 ```
-docker run -p 80:80/tcp "karthequian/helloworld:latest"
+docker run -p 80:80/tcp "coggs/helloworld:latest"
 ```
 
-Dockerhub link: https://hub.docker.com/r/karthequian/helloworld/
+Dockerhub link: https://hub.docker.com/r/coggs/helloworld/
 
-Github link: https://github.com/karthequian/docker-helloworld
+Github link: https://github.com/coggs/docker-helloworld
